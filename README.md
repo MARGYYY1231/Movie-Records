@@ -15,13 +15,13 @@ Modular and maintainable code structure
 Unit-style test files for validation
 ## Project Structure
 .
-├── abstractdb.hpp    // Abstract base class definition
-├── abstractdb.cpp    // Base class implementation
-├── vectordb.hpp      // Derived class using vector storage
-├── vectordb.cpp      // Vector database implementation
-├── t3test.cpp        // Test file 3
-├── t4test.cpp        // Test file 4
-├── t5test.cpp        // Test file 5
+├── abstractdb.hpp    // Abstract base class definition  
+├── abstractdb.cpp    // Base class implementation  
+├── vectordb.hpp      // Derived class using vector storage  
+├── vectordb.cpp      // Vector database implementation  
+├── t3test.cpp        // Test file 3  
+├── t4test.cpp        // Test file 4  
+├── t5test.cpp        // Test file 5  
 
 ## Requirements
 C++ compiler (e.g., g++, clang++)
